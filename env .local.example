@@ -1,0 +1,7 @@
+CENTOS_HOST=10.70.0.58
+CENTOS_PORT=22
+CENTOS_USER=haikal
+CENTOS_PASSWORD=Kallvj123
+
+# Atau gunakan private key (lebih aman)
+# CENTOS_PRIVATE_KEY=C:/Users/YourUser/.ssh/id_rsa
